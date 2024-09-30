@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AC1-2</string>
+    <string name="est_dio">Estádio</string>
+    <string name="saiba_mais">Saiba Mais</string>
+    <string name="est_dio_municipal">Estádio Municipal</string>
+    <string name="parque_natural">Parque Natural</string>
+    <string name="pesqueiro_para_so">Pesqueiro Paraíso</string>
+</resources>
